@@ -59,7 +59,6 @@ typings/
 .env
 .DS_Store
 
-dist/
 .ng_build/
 /.idea
 /.yarn
